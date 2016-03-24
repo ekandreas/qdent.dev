@@ -17,9 +17,9 @@
         <!-- right col (We are only adding the ID to make the widgets sortable)-->
         <section class="col-lg-5 connectedSortable">
 
-          @include('contents.qindex')
-
           @include('contents.wheel')
+
+          @include('contents.qindex')
 
         </section>
         <!-- right col -->

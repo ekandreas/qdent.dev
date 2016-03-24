@@ -31,7 +31,7 @@
             <i class="fa fa-dashboard"></i> <span>Hem</span> <i class="fa fa-angle-left pull-right"></i>
           </a>
           <ul class="treeview-menu">
-            <li class="active"><a href="/"><i class="fa fa-circle-o"></i> Start</a></li>
+            <li class="active"><a href="/"><i class="fa fa-circle text-success"></i> Start</a></li>
           </ul>
         </li>
         <li class="treeview">

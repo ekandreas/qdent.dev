@@ -1,4 +1,4 @@
-<div class="box box-danger">
+<div class="box box-warning">
   <div class="box-header with-border">
     <h3 class="box-title">Årshjulet</h3>
   </div><!-- /.box-header -->

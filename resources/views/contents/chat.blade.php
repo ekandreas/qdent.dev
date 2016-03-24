@@ -1,5 +1,5 @@
 <!-- Chat box -->
-<div class="box box-success">
+<div class="box box-info">
   <div class="box-header">
     <i class="fa fa-comments-o"></i>
 
