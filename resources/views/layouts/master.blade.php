@@ -2,6 +2,7 @@
 <html>
 @include('parts.head')
 <body class="hold-transition skin-blue sidebar-mini">
+  @include('parts.ga')
 <div class="wrapper">
 
   @include('parts.header')
