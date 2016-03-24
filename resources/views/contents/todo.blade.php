@@ -43,7 +43,7 @@
             </span>
         <input type="checkbox" value="" name="">
         <span class="text">Dela ut åtgärder för avvikelser 354</span>
-        <small class="label label-info"><i class="fa fa-clock-o"></i> 4 hours</small>
+        <small class="label label-info"><i class="fa fa-clock-o"></i> 4 h</small>
         <div class="tools">
           <i class="fa fa-edit"></i>
           <i class="fa fa-trash-o"></i>
@@ -56,7 +56,7 @@
             </span>
         <input type="checkbox" value="" name="">
         <span class="text">Följa upp supportärende 101 för RadAc 55</span>
-        <small class="label label-warning"><i class="fa fa-clock-o"></i> 1 day</small>
+        <small class="label label-warning"><i class="fa fa-clock-o"></i> 1 dialog</small>
         <div class="tools">
           <i class="fa fa-edit"></i>
           <i class="fa fa-trash-o"></i>
@@ -69,7 +69,7 @@
             </span>
         <input type="checkbox" value="" name="">
         <span class="text">Meddela ledighet för Isabella Lannefors</span>
-        <small class="label label-success"><i class="fa fa-clock-o"></i> 3 days</small>
+        <small class="label label-success"><i class="fa fa-clock-o"></i> 3 dagar</small>
         <div class="tools">
           <i class="fa fa-edit"></i>
           <i class="fa fa-trash-o"></i>
@@ -82,7 +82,7 @@
             </span>
         <input type="checkbox" value="" name="">
         <span class="text">Starta checklista för "Affärsutveckling" Q1 2016</span>
-        <small class="label label-primary"><i class="fa fa-clock-o"></i> 1 week</small>
+        <small class="label label-primary"><i class="fa fa-clock-o"></i> 1 vecka</small>
         <div class="tools">
           <i class="fa fa-edit"></i>
           <i class="fa fa-trash-o"></i>
@@ -95,7 +95,7 @@
             </span>
         <input type="checkbox" value="" name="">
         <span class="text">Inspirationsmöte 2016-04-01 kl 13:00</span>
-        <small class="label label-default"><i class="fa fa-clock-o"></i> 1 month</small>
+        <small class="label label-default"><i class="fa fa-clock-o"></i> 1 månad</small>
         <div class="tools">
           <i class="fa fa-edit"></i>
           <i class="fa fa-trash-o"></i>
